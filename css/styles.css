@@ -1,1 +1,22 @@
+body {
+background-color: black;
+color: white;
+}
+h2 {
+font-size: 20px;
+}
+p {
+font-size: 12px;
+color: green;
+}
+ol {
+list-style-type: lower-alpha;
+}
+ul {
+list-style-type: square;
+}
+.mydiv {
+border: 2px dotted red;
+height: 100px;
+font-size: 9px}
 
